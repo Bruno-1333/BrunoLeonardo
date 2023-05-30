@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BrunoLeonardo</string>
+
+    <string-array name="Imperiel">
+        <item>Mile</item>
+        <item>Yard</item>
+        <item>Pied</item>
+        <item>Pouce</item>
+
+    </string-array>
+
+    <string-array name="Metric">
+        <item>KM (Kilometre)</item>
+        <item>M (Metre)</item>
+        <item>CM (Centimetre)</item>
+        <item>MM (Millimetre)</item>
+    </string-array>
+
+</resources>
